@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "6bd6",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "123456789",
+      "address": "UK"
+    },
+    {
+      "id": "1",
+      "name": "James",
+      "email": "james@gmail.com",
+      "phone": "7554234121",
+      "address": "USA"
+    },
+    {
+      "id": "3173",
+      "name": "Jenny",
+      "email": "jenny@gmail.com",
+      "phone": "1231231234",
+      "address": "india"
+    },
+    {
+      "id": "3ac8",
+      "name": "Sundar",
+      "email": "sundar@gmail.com",
+      "phone": "1234123456",
+      "address": "india"
+    },
+    {
+      "id": "4dcf",
+      "name": "Ram",
+      "email": "reachramsundar@gmail.com",
+      "phone": "9597983509",
+      "address": "TamilNadu"
+    },
+    {
+      "id": "5033",
+      "name": "Kate",
+      "email": "kate@gmail.com",
+      "phone": "1212121213",
+      "address": "itally"
+    },
+    {
+      "id": "4af3",
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "phone": "1313131314",
+      "address": "Germany"
+    },
+    {
+      "id": "ab68",
+      "name": "test",
+      "email": "reachramsundar@gmail.com",
+      "phone": "93535345",
+      "address": "test"
+    },
+    {
+      "id": "0a15",
+      "name": "test",
+      "email": "reachramsundar@gmail.com",
+      "phone": "6565",
+      "address": "test"
+    }
+  ]
+}
